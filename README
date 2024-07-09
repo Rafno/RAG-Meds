@@ -1,0 +1,5 @@
+## This is a beginning attempt at creating a RAG pipeline serviced with Flask.
+
+# It cleans none of the data yet, so it doesn't give good answers in most cases.
+
+# Next steps would be to clean the pdf data and have a better model.
